@@ -1,0 +1,47 @@
+resetCanvas 1000 1000
+setColor 121 204 104 
+drawLine 2R47rYF0 189 199 105 526 DDA
+drawPolygon Gd4kH7gh 49 307 417 370 DDA
+drawEllipse oIW5mVPP 506 229 519 272 
+translate oIW5mVPP 12 -22
+rotate Gd4kH7gh 520 130 211
+rotate 2R47rYF0 343 356 -353
+scale oIW5mVPP 325 171 1.5958861555614523
+setColor 206 70 74 
+drawEllipse F8cKOHHd 556 374 528 579 
+translate 2R47rYF0 -19 -14
+drawCurve nibmfkVG 455 187 31 121 217 532 237 431 395 12 297 586 375 445 B-spline
+scale 2R47rYF0 24 53 2.8583417450916726
+rotate 2R47rYF0 27 284 -715
+scale Gd4kH7gh 58 463 1.1827092851626557
+scale nibmfkVG 306 62 0.5363368714239622
+setColor 186 176 151 
+drawCurve EslSTN1i 128 436 401 232 229 484 425 93 407 388 B-spline
+translate F8cKOHHd -17 15
+setColor 138 8 196 
+drawCurve sFVYrOKR 373 120 515 517 237 476 B-spline
+setColor 99 82 216 
+setColor 117 208 111 
+drawCurve 5Wl77GzO 566 249 512 236 538 193 356 94 75 171 300 135 205 443 Bezier
+drawCurve DBNOonAd 517 47 170 449 397 198 368 97 163 445 B-spline
+rotate 2R47rYF0 16 534 -187
+translate DBNOonAd -30 20
+setColor 63 95 31 
+scale sFVYrOKR 419 469 2.63699544475949
+setColor 75 5 249 
+rotate DBNOonAd 46 464 -48
+drawCurve 49NZl2BS 567 459 414 407 197 26 447 478 310 502 385 8 B-spline
+drawEllipse QGcm7FqZ 343 164 468 93 
+rotate sFVYrOKR 460 108 -245
+drawCurve 8xtozLfs 212 490 94 404 67 532 147 129 349 384 B-spline
+drawLine g1lxS5lB 214 125 525 462 Bresenham
+drawPolygon gonK9hEb 352 218 Bresenham
+setColor 77 3 218 
+clip g1lxS5lB 114 482 512 573 Liang-Barsky
+drawCurve 8aXb5YFq 277 437 3 574 526 192 352 168 506 71 B-spline
+scale nibmfkVG 547 139 0.05862393959004186
+rotate 8xtozLfs 377 461 -589
+setColor 120 166 243 
+rotate gonK9hEb 213 25 -456
+translate 2R47rYF0 4 -7
+saveCanvas the_name
